@@ -47,7 +47,16 @@ Miley
 **clear**- to clear whole terminal
   
 
+## Stretch Goal ##
 
+1. Show all file with ls: ls -r foldername
+2. Making parent directories with mkdir: mkdir -r parents/children/grandchildren
+3.  Removing directories: rm -r parents 
+4. Argument for each command:
+   * **ls** can goes with or without argument -- which is the folder that it will display the content. When it stands alone, it display content of the current folder. It can display what's in 2 directories or more. Example: ls single married
+   * **mkdir** always have to use an argument -- which is the name of folder it's going to creat. When "mkdir" goes with flag -r, it can creates a parents directories.
+   * **rm** always have to use an argument, which is the name of file it's going to delete. When use with -r, it can delete a folder. It can take multiple arguments at once. Example: rm -r married single parents/child/test.md. If we don't give it any argument, this command will not be execute
+  
 
 
 
