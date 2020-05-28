@@ -2,10 +2,11 @@
 Cheat sheet md
 Miley
 - 
-# Language used in terminal #
-* cd: go to a directory
+# **_Language used in terminal_**
+
+**cd**- go to a directory
   
-* ls: display content within a directory (show folder only if don't use additional flag)
+**ls**- display content within a directory (show folder only if don't use additional flag)
   
 **pwd** stand for print directory working directory, show where I'm at
   
