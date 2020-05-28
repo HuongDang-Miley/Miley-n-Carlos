@@ -18,12 +18,12 @@ Miley
 
 **cp** to copy, paste, rename a file/folder
 
-**../ -> **- parent folder
+* ../ -> *- parent folder
 
-**./ ->**-  current folder
+* ./ -> *- current folder
 
-**~ ->**- home
-** "*" ->**- everything
+* ~ -> *- home
+* "*" -> *- everything
 
 **ctr + C**- get out of some thing that's currently running
 
