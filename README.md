@@ -23,6 +23,7 @@ Miley
 * ./ -> *- current folder
 
 * ~ -> *- home
+
 * "*" -> *- everything
 
 **ctr + C**- get out of some thing that's currently running
